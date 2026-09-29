@@ -30,7 +30,7 @@ AI-generated content should always be reviewed and verified by a responsible per
 
 ## Live Demo
 
-👉 **[Open Universal AI – Live Demo]((https://chatbot-application-one.vercel.app/))**
+👉 **[Open Universal AI – Live Demo]([https://chatbot-application-one.vercel.app/])**
 
 ## Best Practice
 
